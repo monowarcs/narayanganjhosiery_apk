@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- App Icon — NH + hanger monogram on deep navy rounded square -->
+  <rect x="0" y="0" width="200" height="200" rx="44" fill="#0F172A"/>
+  <!-- Hanger arch -->
+  <path d="M38 118 L100 44 L162 118" fill="none" stroke="white" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+  <!-- Hanger hook -->
+  <path d="M100 44 A14 14 0 0 1 114 30 A14 14 0 0 1 100 16 A14 14 0 0 0 86 30" fill="none" stroke="#E11D48" stroke-width="7" stroke-linecap="round"/>
+  <!-- Stem completing N/H -->
+  <line x1="100" y1="44" x2="100" y2="150" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  <!-- NH letters -->
+  <text x="100" y="132" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="white" letter-spacing="6">NH</text>
+  <!-- Subtle folded garment lines below NH -->
+  <path d="M62 148 H138" stroke="white" stroke-width="2.2" stroke-linecap="round" opacity="0.28"/>
+  <path d="M72 156 H128" stroke="white" stroke-width="2.2" stroke-linecap="round" opacity="0.18"/>
+</svg>
